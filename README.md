@@ -12,7 +12,7 @@
 
 1. **[Por que estudar Teoria da Computação?](primeiroEst/MotivosParaEstudar.md)**<br>
 2. **[Introdução à Disciplina](primeiroEst/IntroducaoADisciplina.md)**<br>
-3. **[Noções Matemáticas]**<br>
+3. **[Noções Matemáticas](primeiroEst/NocoesMatematicas.md)**<br>
 4. **[Definições, Teoremas e Provas]**<br>
 5. **[Autômatos Finitos]**<br>
 6. **[Projeto de Autômatos Finitos]**<br>
