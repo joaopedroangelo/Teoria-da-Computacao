@@ -37,3 +37,9 @@
 
 ---
 ## Resoluções
+
+> Em breve
+
+1. **[Resolução Lista 01]**
+2. **[Resolução Lista 02]**
+3. **[Resolução Lista 03]**
