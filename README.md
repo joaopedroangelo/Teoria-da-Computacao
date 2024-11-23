@@ -15,12 +15,13 @@
 3. **[Noções Matemáticas](primeiroEst/NocoesMatematicas.md)**<br>
 4. **[Autômatos Finitos - Introdução](primeiroEst/intAutomatosFinitos.md)**<br>
 5. **[Autômatos Finitos - Definição Formal](primeiroEst/defAutomatosFinitos.md)**<br>
-6. **[Projeto de Autômatos Finitos]**<br>
-7. **[Operações Regulares]**<br>
-8. **[Não Determinismo]**<br>
-9. **[Autômato Finito Não Determinístico]**<br>
-10. **[Expressões Regulares]**<br>
-11. **[Linguagens Não Regulares]**<br>
+6. **[Autômatos Finitos - Exemplos](primeiroEst/exemplosAutomatosFinitos.md)**<br>
+7. **[Autômatos Finitos - Como Projetar]**<br>
+8. **[Operações Regulares]**<br>
+9. **[Não Determinismo]**<br>
+10. **[Autômato Finito Não Determinístico]**<br>
+11. **[Expressões Regulares]**<br>
+12. **[Linguagens Não Regulares]**<br>
 
 ---
 ## 2º Estágio
