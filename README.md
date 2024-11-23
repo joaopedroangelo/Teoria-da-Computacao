@@ -13,8 +13,8 @@
 1. **[Por que estudar Teoria da Computação?](primeiroEst/MotivosParaEstudar.md)**<br>
 2. **[Introdução à Disciplina](primeiroEst/IntroducaoADisciplina.md)**<br>
 3. **[Noções Matemáticas](primeiroEst/NocoesMatematicas.md)**<br>
-4. **[Autômatos Finitos - Introdução](primeiroEst/intAutomatosFinitos.md)**
-5. **[Autômatos Finitos - Definição Formal]**<br>
+4. **[Autômatos Finitos - Introdução](primeiroEst/intAutomatosFinitos.md)**<br>
+5. **[Autômatos Finitos - Definição Formal](primeiroEst/defAutomatosFinitos.md)**<br>
 6. **[Projeto de Autômatos Finitos]**<br>
 7. **[Operações Regulares]**<br>
 8. **[Não Determinismo]**<br>
