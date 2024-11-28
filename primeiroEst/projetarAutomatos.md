@@ -18,7 +18,9 @@ Em seguida, você atribui as transições, vendo como ir de uma possibilidade pa
 
 ![01](https://github.com/user-attachments/assets/a03be85d-b4e9-4099-b2a1-7fd512902af7)
 
-Em seguida, você pensa no estado inicial. O estado inicial será aquele que aceita a cadeia vazia. Faça com que o estado "ímpar" seja o estado de aceitação.
+Em seguida, você pensa no estado inicial. O estado inicial será aquele que aceita a cadeia vazia.
+
+Agora, faça com que o estado "ímpar" seja o estado de aceitação.
 
 ![img02](https://github.com/user-attachments/assets/57bef16a-2389-4cd9-b4d2-9897b880dc1a)
 
