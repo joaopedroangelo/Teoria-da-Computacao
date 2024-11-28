@@ -3,7 +3,6 @@
 > Todo conteúdo deste repositório é baseado no livro **"Introdução à Teoria da Computação - 2ªED - Sipser"**
 
 > Repositório sobre Teoria da Computação, contendo conceitos fundamentais, explicações teóricas e exercícios resolvidos. 
-> Ideal para estudantes que desejam aprofundar seus conhecimentos na área.
 
 > Para ver os conteúdos do Repositório, basta clicar no tópico do seu interesse.
 
