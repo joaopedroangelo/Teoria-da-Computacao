@@ -16,7 +16,7 @@
 5. **[Autômatos Finitos - Definição Formal](primeiroEst/defAutomatosFinitos.md)**<br>
 6. **[Autômatos Finitos - Exemplos](primeiroEst/exemplosAutomatosFinitos.md)**<br>
 7. **[Autômatos Finitos - Como Projetar](primeiroEst/projetarAutomatos.md)**<br>
-8. **[Operações Regulares]**<br>
+8. **[Operações Regulares](primeiroEst/operacoesRegulares.md)**<br>
 9. **[Não Determinismo]**<br>
 10. **[Autômato Finito Não Determinístico]**<br>
 11. **[Expressões Regulares]**<br>
