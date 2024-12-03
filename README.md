@@ -20,7 +20,6 @@
 9. **[Não Determinismo]**<br>
 10. **[Autômato Finito Não Determinístico]**<br>
 11. **[Expressões Regulares]**<br>
-12. **[Linguagens Não Regulares]**<br>
 
 ---
 ## 2º Estágio
