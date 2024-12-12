@@ -30,15 +30,13 @@
 ---
 ## Listas de Exercícios
 
-1. **[Lista 01 - Autômatos Finitos](exercicios/lista01AF.md)(exercicios/lista01.md)**<br>
+1. **[Lista 01 - Autômatos Finitos](exercicios/lista01AF.md)**<br>
 2. **[Lista 02 - Autômatos Finitos](exercicios/lista02AF.md)**<br>
 3. **[Lista 03 - Autômatos Finitos](exercicios/lista03AF.md)**<br>
 
 ---
 ## Resoluções
 
-> Em breve
-
-1. **[Resolução Lista 01]**
+1. **[Resolução Lista 01](exercicios/lista01.md)**
 2. **[Resolução Lista 02]**
 3. **[Resolução Lista 03]**
