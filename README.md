@@ -18,7 +18,7 @@
 7. **[Autômatos Finitos - Como Projetar](primeiroEst/projetarAutomatos.md)**<br>
 8. **[Operações Regulares](primeiroEst/operacoesRegulares.md)**<br>
 9. **[Não Determinismo](primeiroEst/naoDeterminismo.md)**<br>
-10. **[Autômato Finito Não Determinístico]**<br>
+10. **[Definição Formal - Autômato Finito Não Determinístico](primeiroEst/defFormalNaoDeterminismo.md)**<br>
 
 ---
 ## 2º Estágio
