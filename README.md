@@ -32,11 +32,10 @@
 
 1. **[Lista 01 - Autômatos Finitos](exercicios/lista01AF.md)**<br>
 2. **[Lista 02 - Autômatos Finitos](exercicios/lista02AF.md)**<br>
-3. **[Lista 03 - Autômatos Finitos](exercicios/lista03AF.md)**<br>
+3. **[Prova - 1º Estágio](exercicios/lista03AF.md)**<br>
 
 ---
 ## Resoluções
 
 1. **[Resolução Lista 01](exercicios/lista01.md)**
-2. **[Resolução Lista 02]**
-3. **[Resolução Lista 03]**
+2. **[Resolução Prova 1º Estágio](exercicios/lista03.md)**
