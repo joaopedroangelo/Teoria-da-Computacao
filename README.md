@@ -19,7 +19,6 @@
 8. **[Operações Regulares](primeiroEst/operacoesRegulares.md)**<br>
 9. **[Não Determinismo]**<br>
 10. **[Autômato Finito Não Determinístico]**<br>
-11. **[Expressões Regulares]**<br>
 
 ---
 ## 2º Estágio
