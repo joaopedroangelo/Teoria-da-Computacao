@@ -38,4 +38,4 @@
 ## Resoluções
 
 1. **[Resolução Lista 01](exercicios/lista01.md)**
-2. **[Resolução Prova 1º Estágio](exercicios/lista03.md)**
+2. **[Resolução Prova 1º Estágio](exercicios/lista02.md)**
