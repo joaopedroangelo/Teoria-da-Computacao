@@ -19,7 +19,8 @@
 8. **[Operações Regulares](primeiroEst/operacoesRegulares.md)**<br>
 9. **[Não Determinismo](primeiroEst/naoDeterminismo.md)**<br>
 10. **[Definição Formal - Autômato Finito Não Determinístico](primeiroEst/defFormalNaoDeterminismo.md)**<br>
-11. **[Equivalência - AFD e AFND](primeiroEst/equivalencia.md)**<br>
+11. **[Quando usar um AFND](primeiroEst/quandoUsarAFND.md)**<br>
+12. **[Equivalência - AFD e AFND](primeiroEst/equivalencia.md)**<br>
 
 ---
 ## 2º Estágio
