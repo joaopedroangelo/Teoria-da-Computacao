@@ -1,7 +1,7 @@
 # Projetar Autômatos Finitos
 
 > Tente se colocar no lugar do autômato<br>
-> Você recebe uma sequência de caracteres como entrada e vai vendo os símbolos na cadeia um por um. Depois de cada símbolo você tem que decidir se a cadeia vista até então está na linguagem (ou seja, se é aceita).
+> Você recebe uma sequência de caracteres como entrada e vai vendo as movimentações a cada caractere.
 
 ---
 ## Exemplo 01
