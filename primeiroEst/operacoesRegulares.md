@@ -1,8 +1,11 @@
 # Operações Regulares
 
-> Lembre que "Alfabeto" são todas as entradas possíveis que um autômato pode receber
+> Lembre que "Alfabeto" são todas as entradas que um autômato pode receber.<br>
+> Por sua vez, "Linguagem", é o conjunto de todas as cadeias que a máquina M aceita.<br>
 
-> Linguagem regular é toda entrada aceita por um autômato
+> Se A é o conjunto de todas as cadeiras que a máquina M aceita, que dizemos que A é a Linguagem da máquina M e escrevemos L(M) = A.
+
+> Uma máquina sempre reconhece uma única linguagem.
 
 Definimos algumas operações sobre linguagens, chamadas operações regulares, e as usamos para estudar propriedades de linguagens regulares.
 
