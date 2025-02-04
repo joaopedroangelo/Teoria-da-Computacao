@@ -1,6 +1,6 @@
 # Projetar Autômatos Finitos
 
-> Tente se colocar no lugar do autômato<br>
+> Tente se colocar no lugar do autômato.<br>
 > Você recebe uma sequência de caracteres como entrada e vai vendo as movimentações a cada caractere.
 
 ---
